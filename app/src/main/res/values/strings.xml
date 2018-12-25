@@ -1,0 +1,9 @@
+<resources>
+    <string name="send_button_label">Send</string>
+    <string name="app_name">Family Chatting</string>
+
+    <string name="title_activity_fullscreen">FullscreenActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+
+</resources>

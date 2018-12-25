@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "526812663857",
+    "firebase_url": "https://familychatapp-3e083.firebaseio.com",
+    "project_id": "familychatapp-3e083",
+    "storage_bucket": "familychatapp-3e083.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:526812663857:android:773b8ffc16f89bb0",
+        "android_client_info": {
+          "package_name": "com.example.roni.familychatting"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "526812663857-ufvf2tj29s82cso1b70ajvjvfpff2f2u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXgWzmdKAMUmqaUj-ITyqSGbh2PS41U_o"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
